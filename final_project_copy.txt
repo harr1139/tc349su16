@@ -1,0 +1,17 @@
+Content Sections of my site followed by draft copy
+
+	1. Home/About
+		- I am an aspiring web designer/developer studying in East Lansing, 		Michigan. I have a passion for creating simplistic and unique 		experiences for users.
+		- This is my creative space which I use to showcase my works as a 		student at Michigan State University.
+	2. Design Work
+		- Take a look at some of my recent work.
+		- * Example of design work
+	3. Other Work
+		- Sometimes I do more than just design things.
+		- * Examples of blog posts, pictures, etc.
+	4. Contact Me
+		- Find me on social media.
+			- * icons that link to all of my social media accounts
+		- Message Me.
+	
+	* Means that text will not actually be text on my website, just describes what the other content on that respective page will consist of.
